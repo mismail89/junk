@@ -1,0 +1,26 @@
+.main-sticky{
+    width: 95%;
+    background-color: transparent;
+    position: fixed;
+    top: 85%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.main-stick{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-sticky a{
+    font-size: 50px;
+    color: white;
+    width: 70px;
+    height: 70px;
+    background-color: #f7701d;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
